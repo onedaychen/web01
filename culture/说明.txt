@@ -1,0 +1,7 @@
+一、html目录结构说明
+
+目录列表页面：laws.html,inheirt.html,people.html,declare.html,down.html,book.html
+政策法规，申报指南，相关下载目录的详情页:laws.html,declare.html,down.html
+非遗项目，传承人目录的详情页:inheirt_content.html,people_content.html
+非遗项目，传承人目录搜索框详情页:search_inheirt_content.html,search_people_content.html
+非遗项目，传承人目录更多列表页:inheirt_more.html,people_more.html
